@@ -1,12 +1,5 @@
 # 🧹 Application de Nettoyage Android
 
-## 👩‍💻 Développée par
-**Sara Saadi**
-**Rim Laasri**
-
-## 📅 Date de fin du projet
-**18/01/2026**
-
 ---
 
 ## 📱 Description
@@ -59,13 +52,14 @@ Les tests **Espresso** permettent de vérifier :
       <img width="215" height="371" alt="Manuelle Cleaning Activity" src="https://github.com/user-attachments/assets/4220ff2b-3bc9-46d6-87c1-db32814d649b" /><br/>
       <small>Manuelle Cleaning Activity</small>
     </td>
+  
+  </tr>
+
+  <tr>
     <td align="center">
       <img width="215" height="377" alt="Notification de nettoyage" src="https://github.com/user-attachments/assets/a7a00c5f-fe37-4644-91e0-8f5787e95a44" /><br/>
       <small>Notification de nettoyage</small>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img width="212" height="368" alt="Démarrage automatique" src="https://github.com/user-attachments/assets/da59052e-dcf1-43e1-8ca6-5cd2afbd5e60" /><br/>
       <small>Démarrage automatique</small>
@@ -74,12 +68,13 @@ Les tests **Espresso** permettent de vérifier :
       <img width="214" height="371" alt="Notification de Démarrage automatique" src="https://github.com/user-attachments/assets/72f695b2-bd0d-41c5-9034-42f30f25df6d" /><br/>
       <small>Notification de Démarrage automatique</small>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img width="215" height="365" alt="Arrete de Démarrage automatique" src="https://github.com/user-attachments/assets/33c817bd-6246-4a41-983e-360a1c5c6c0e" /><br/>
       <small>Arrete de Démarrage automatique</small>
     </td>
-    </tr>
-    <tr>
     <td align="center">
       <img width="215" height="376" alt="Notification de Arrete de Démarrage automatique" src="https://github.com/user-attachments/assets/724d2e4d-8694-47eb-a236-8a79f8c647b6" /><br/>
       <small>Notification de Arrete de Démarrage automatique</small>
@@ -88,9 +83,26 @@ Les tests **Espresso** permettent de vérifier :
       <img width="487" height="227" alt="Test de progress" src="https://github.com/user-attachments/assets/31848061-e62c-4203-989b-799693e7a144" /><br/>
       <small>Test de progress</small>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img width="480" height="225" alt="Test de storage utils" src="https://github.com/user-attachments/assets/0b140d9e-4a53-450a-9f4a-a67ad33827d8" /><br/>
       <small>Test de storage utils</small>
+    </td>
+    <td align="center">
+      <img width="494" height="298" alt="Testde AutoCleanState" src="https://github.com/user-attachments/assets/62c688e4-b08c-4f6b-a8f2-0588902fae4c" /><br/>
+      <small>Testde AutoCleanState</small>
+    </td>
+    <td align="center">
+      <img width="457" height="238" alt="Test Espresso de l’activité Cleaning" src="https://github.com/user-attachments/assets/fc6ef408-324a-4bc7-a664-2bcea8e211e6" /><br/>
+      <small>Test Espresso de l’activité Cleaning</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="457" height="389" alt="Test Espresso de l’activité Main" src="https://github.com/user-attachments/assets/1581840c-56d3-448c-b13b-fb343523fdb6" /><br/>
+      <small>Test Espresso de l’activité Main</small>
     </td>
   </tr>
 </table>
@@ -102,4 +114,11 @@ Ce projet a été réalisé dans un **cadre pédagogique**, afin de mettre en pr
 - La gestion des permissions Android
 - Les tâches automatiques en arrière-plan
 - Les notifications système
-- Les tests UI avec Espresso  
+- Les tests UI avec Espresso
+
+## 👩‍💻 Développée par
+**Sara Saadi**
+**Rim Laasri**
+
+## 📅 Date de fin du projet
+**18/01/2026**
